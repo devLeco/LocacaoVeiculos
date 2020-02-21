@@ -1,2 +1,2 @@
 # LocacaoVeiculos
- Programa para Locação de veículos feito em java com orientação a objetos
+ Programa para Locação de veículos feito em java no Netbeans com orientação a objetos
